@@ -1,7 +1,7 @@
 {
   "name": "polaris-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Polaris is an Atom syntax theme designed to make coding clear, elegant, and enjoyable.",
   "repository": "https://github.com/jamieshepherd/polaris-syntax",
   "license": "MIT",
